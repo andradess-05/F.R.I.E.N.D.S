@@ -1,0 +1,27 @@
+@import url('../index.css');
+
+body {
+  background: linear-gradient(135deg, #fff5e1, #fff);
+  color: #333;
+}
+
+header {
+  background-color: #e39a3b;
+}
+
+h1, h2 {
+  color: #a05a00;
+}
+
+img {
+  border: 4px solid #e39a3b;
+  border-radius: 16px;
+}
+
+.btn {
+  background-color: #a05a00;
+  color: #fff;
+}
+.btn:hover {
+  background-color: #7c4500;
+}
